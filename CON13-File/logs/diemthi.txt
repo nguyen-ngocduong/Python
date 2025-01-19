@@ -1,0 +1,16 @@
+Nguyen Van An
+An.nguyen@gmail.com
+0123456789
+9 8 9
+Tran Thi Bong
+Bong.tran@gmail.com
+0987654321
+7 7 6
+Le Van Cuong
+Cuong.le@gmail.com
+0765432187
+9 9 9
+Nguyen Ngoc Duong
+Duong.nguyen@gmail.com
+0945123456
+9 9.5 8.75
