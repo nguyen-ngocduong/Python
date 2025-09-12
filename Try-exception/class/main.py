@@ -1,0 +1,3 @@
+from sophuc import *
+
+main()
