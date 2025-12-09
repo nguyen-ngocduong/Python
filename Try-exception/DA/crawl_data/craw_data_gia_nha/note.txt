@@ -1,0 +1,8 @@
+By.id(String id): Tìm phần tử có thuộc tính id khớp với chuỗi được cung cấp.
+By.name(String name): Tìm phần tử có thuộc tính name khớp với chuỗi được cung cấp.
+By.className(String className): Tìm các phần tử có tên lớp (class name) khớp với chuỗi được cung cấp.
+By.tagName(String tagName): Tìm các phần tử theo tên thẻ HTML, ví dụ như By.tagName("h1").
+By.xpath(String xpathExpression): Tìm phần tử bằng cách sử dụng biểu thức XPath.
+By.cssSelector(String cssSelector): Tìm phần tử bằng cách sử dụng bộ chọn CSS.
+By.linkText(String linkText): Tìm liên kết dựa trên văn bản hiển thị chính xác của liên kết.
+By.partialLinkText(String partialLinkText): Tìm liên kết dựa trên một phần của văn bản hiển thị của liên kết. 

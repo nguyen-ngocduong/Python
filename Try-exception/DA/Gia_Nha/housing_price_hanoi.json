@@ -1,0 +1,69 @@
+{
+ "metadata": {
+ "city": "Hà Nội",
+ "currency": "VND (triệu đồng/m²)",
+ "unit": "triệu đồng/m²",
+ "year": 2025
+ },
+ "data": [
+ {
+ "month": 1,
+ "month_name": "Tháng 1",
+ "date": "2025-01-15",
+ "district": "Ba Đình",
+ "price_per_sqm": 125.5,
+ "total_volume": 450,
+ "number_transactions": 28
+ },
+
+{
+ "month": 1,
+ "month_name": "Tháng 1",
+ "date": "2025-01-15",
+ "district": "Hoàn Kiếm",
+ "price_per_sqm": 189.3,
+ "total_volume": 320,
+ "number_transactions": 15
+ },
+
+{
+ "month": 1,
+ "month_name": "Tháng 1",
+ "date": "2025-01-15",
+ "district": "Hai Bà Trưng",
+ "price_per_sqm": 98.7,
+ "total_volume": 680,
+ "number_transactions": 42
+ },
+
+{
+ "month": 2,
+ "month_name": "Tháng 2",
+ "date": "2025-02-15",
+ "district": "Ba Đình",
+ "price_per_sqm": 127.2,
+ "total_volume": 520,
+ "number_transactions": 31
+ },
+
+{
+ "month": 2,
+ "month_name": "Tháng 2",
+ "date": "2025-02-15",
+ "district": "Hoàn Kiếm",
+ "price_per_sqm": 192.1,
+ "total_volume": 350,
+ "number_transactions": 18
+ },
+
+{
+ "month": 2,
+ "month_name": "Tháng 2",
+ "date": "2025-02-15",
+ "district": "Hai Bà Trưng",
+ "price_per_sqm": 101.5,
+ "total_volume": 720,
+ "number_transactions": 45
+ }
+]
+}
